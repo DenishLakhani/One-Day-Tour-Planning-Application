@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1QdYLc5XPXYQdCXRm4dqE8PVzyI7NKPjq
 """
 
-pip install streamlit fastapi neo4j transformers outlines
+
 
 from fastapi import FastAPI, Request
 from pydantic import BaseModel
